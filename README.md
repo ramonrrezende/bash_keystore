@@ -1,6 +1,6 @@
 # Bash Keystore
 
-Bash Keystore is a simple bash-based password manager. Its main purpose is to store encrypted passwords in text files. By default all the passwords are stored in 'passswords.txt'.
+Bash Keystore is a simple bash-based password manager. Its main purpose is to store encrypted passwords in text files. By default all the passwords are stored in `passwords.txt`.
 
 ## Dependencies
 - openssl: Used for encryption
