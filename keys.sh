@@ -1,5 +1,4 @@
 #! /bin/bash
-echo $1
 filter=$1
 if ! [[ -z $filter ]]
 then
